@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Hosung's blog
+email:              hosungpark@sogang.ac.kr
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Hosung Park
+baseurl:            "/"
+url:                "https://indra622.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
